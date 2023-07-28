@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  bottom: 0;
+}
+
+body {
+  background-color: #a3d5cc;
+}
+
+.container {
+  width: 60%;
+  margin: auto;
+  padding: auto;
+  margin-top: 5rem;
+  padding: 2rem 0;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 3px 7px 3px rgba(0, 0, 0, 0.2);
+}
+
+h3 {
+  font-size: 35px;
+  padding: 1rem 0;
+  color: #168774;
+}
+
+.input {
+  font-size: 18px;
+  width: 50%;
+  margin-top: 1rem;
+  padding: 0.32rem 1rem;
+  background-color: #ecf5ff;
+  border: 2px solid #dfe9ec;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.btn {
+  color: #fff;
+  background-color: #3399ff;
+  font-size: 16px;
+  padding: 0.5rem 0.8rem;
+  border: none;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  cursor: pointer;
+}
+
+.container-grocery {
+  padding: 2rem 0;
+  text-align: center;
+}
+
+.grocery {
+  width: 60%;
+  display: inline-block;
+  margin: auto;
+}
+
+.f-left {
+  float: left;
+}
+
+.f-left p {
+  font-size: 18px;
+}
+
+.f-right {
+  float: right;
+}
+
+.btn-edit {
+  color: green;
+  font-size: 22px;
+  background-color: #fff;
+  border: none;
+}
+.btn-delete {
+  color: red;
+  font-size: 23px;
+  background-color: #fff;
+  border: none;
+}
+
+.btn-c {
+  padding-top: 2rem;
+  text-align: center;
+}
+
+.btn-clear {
+  color: #ff9083;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: #fff;
+  border: none;
+}
